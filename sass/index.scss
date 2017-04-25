@@ -14,7 +14,7 @@ body {
 }
 
 .gradient { 
-	background: linear-gradient(90deg, #3aa1ff, #f8ccfc);
+	background: linear-gradient(160deg, #3aa1ff 0%, #f8ccfc 80%);
 }
 
 nav {
@@ -23,7 +23,7 @@ nav {
 
 input, textarea {
 		width: 100%;
-	  background-color: rgba(0,0,0,0.1);
+	  background-color: rgba(0,0,0,0.05);
     border: 0;
     box-shadow: 0 1px 0 0 rgba(255,255,255,0.05), inset 0 1px 2px 0 rgba(0,0,0,0.15);
     border-radius: 4px;
